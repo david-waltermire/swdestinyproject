@@ -1,1 +1,4 @@
-/java/swdestinyproject/target
+target
+.settings
+.classpath
+.project
