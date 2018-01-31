@@ -36,7 +36,7 @@ public class DiscountGamesIncPageHandler extends AbstractPageHandler {
 		for (Element element : elements) {
 			// TODO: implement parser
 		}
-		return Collections.emptyList();;
+		return Collections.emptyList();
 	}
 
 }
